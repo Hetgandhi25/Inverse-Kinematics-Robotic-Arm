@@ -24,14 +24,14 @@ The following components were used in this project:
 
 ## 📜 **Implementation & Working**  
 
-1️⃣ **Understanding Inverse Kinematics (IK)**  
+### 1️⃣ Understanding Inverse Kinematics (IK)  
 - IK is used to calculate the joint angles **(θ1, θ2, θ3)** from a given **end-effector position** **(x, y, θ)**.  
 - The Braccio robotic arm consists of **three main links**:  
   - **L1** → Shoulder to Elbow  
   - **L2** → Elbow to Wrist  
   - **L3** → Wrist to End-Effector  
 
-2️⃣ **Mathematical Formulas Used**  
+### 2️⃣ Mathematical Formulas Used  
 Given an end-effector position (x, y) and orientation (θ), we calculate joint angles using:  
 
 - **Position of Joint J3**  
