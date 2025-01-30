@@ -55,7 +55,7 @@ Tested with various (x, y, θ) coordinates:
 ## 🎥 **Demo & Results**
 
 You can view the output demo of the robotic arm moving to different target positions via the following link:  
-[Watch the output here](<Insert YouTube link>)
+[Watch the output here](https://www.youtube.com/watch?v=gsnxKZ3Plk0)
 
 ### ✅ **Observations:**
 - Successfully calculated and executed inverse kinematics.
